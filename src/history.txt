@@ -1,0 +1,19 @@
+¿Como se le llama a la proxima version del lenguaje?
+= Es.next
+¿Quien añade mas caracteristicas?
+= TC39
+¿Donde los puedo encuentrar?
+= tc39.es
+
+-- Pasos para que una propuesta se añada al lenguaje:
+- Stage 0
+   Idea
+- Stage 1
+   Proposal
+- Stage 2
+   Draft
+- Stage 3
+   Candidate
+- Stage 4
+   Ready
+----
